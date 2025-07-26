@@ -1,0 +1,6 @@
+[gd_scene load_steps=2 format=3 uid="uid://fnmoanqbhc3n"]
+
+[ext_resource type="Script" uid="uid://n4d3px8x17fi" path="res://apology.gd" id="1_8bsxv"]
+
+[node name="Apology" type="Node"]
+script = ExtResource("1_8bsxv")
